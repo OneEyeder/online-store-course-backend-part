@@ -13,3 +13,4 @@ npm run dev
 **express**
 in future **React**
 ---
+***jwt token + bcrypt***
