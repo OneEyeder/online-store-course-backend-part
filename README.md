@@ -8,5 +8,7 @@ npm run dev
 
 *stack*
 **PERN**
+**PostgresSql**
 **Node.js**
 **express**
+in future **React**
