@@ -3,7 +3,7 @@
 npm run dev
 
 *Used soft*
-**DB PostgresSql**
+**PostgresSql**
 **Postman**
 
 *stack*
